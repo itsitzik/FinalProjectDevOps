@@ -25,7 +25,7 @@ Please enter your current age!
 <hr>
 Orpaz Joseph & Itzik Ben-Shitrit
 <br>
-DevOps Course - Final Project, HIT, 202111111
+DevOps Course - Final Project, HIT, 2021
 <br>
 </body>
 </html>
